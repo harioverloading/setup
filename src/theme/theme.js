@@ -2,9 +2,6 @@ import {Dimensions} from 'react-native';
 const {width, height} = Dimensions.get('window');
 
 export const COLORS = {
-  // base colors
-  baseUrl: 'https://health-fine-app.herokuapp.com/api/',
-  loginApiMedhod: 'authentication/login',
   primary: '#66D59A', // green
   secondary: '#F6F6F6',
   secondary1: '#eee', // dark green
